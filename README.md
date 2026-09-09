@@ -250,4 +250,4 @@ This repository serves as the official landing page for Dataprius. The software 
 **Get the most recent version of Dataprius today!**
 
 ---
-**Last updated:** 2026-09-09 13:28:31 UTC
+**Last updated:** 2026-09-09 17:37:14 UTC
